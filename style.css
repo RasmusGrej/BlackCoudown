@@ -1,3 +1,7 @@
+p {
+    font-family:'Exo', sans-serif;
+}
+
 #BlackCount {
     padding: 5px;
     background-color:#ec5d33;
