@@ -1,0 +1,19 @@
+#BlackCount {
+    padding: 5px;
+    background-color:#ec5d33;
+
+   
+}
+#demo {
+    font-size: 50px;
+    text-align: center;
+  color: white;
+  letter-spacing: 5px;
+}
+
+@media  screen and (max-width: 450px) {
+    #demo {
+        font-size: 30px;
+      
+    }
+}
