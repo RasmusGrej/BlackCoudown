@@ -3,7 +3,7 @@ p {
 }
 
 #BlackCount {
-    padding: 5px;
+    padding: 0px;
     background-color:#ec5d33;
 
    
@@ -11,7 +11,7 @@ p {
 #demo {
     font-size: 50px;
     text-align: center;
-  color: white;
+  color: black;
   letter-spacing: 5px;
 }
 
